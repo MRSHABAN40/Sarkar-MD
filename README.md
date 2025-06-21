@@ -166,7 +166,7 @@ Dont forget to fork & star repo
 ```diff
 + Project Status: Active
 ! Version: 3.0.0 Neon Edition
-# License: APACHE
+# License: MIT
 ```
 
 <div align="center">
